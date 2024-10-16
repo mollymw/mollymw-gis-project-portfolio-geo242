@@ -14,3 +14,6 @@ Molly Weeldreyer
 
 - [Understanding map coordinates](https://github.com/mollymw/mollymw-gis-project-portfolio-geo242/blob/fc510570bac0fe2255cbf8e97e77baaf74a2d494/map-coordinate-basics/Understanding_Coordinates.ipynb)
 - [Georeference a 1960s Miami University campus map](https://github.com/mollymw/mollymw-gis-project-portfolio-geo242/blob/fc510570bac0fe2255cbf8e97e77baaf74a2d494/map-coordinate-basics/Georeferencing.ipynb)
+
+## Raster Data Analysis
+- [Band Composition for Landsat](https://github.com/mollymw/mollymw-gis-project-portfolio-geo242/blob/3105935460beea513067de2e6de9f6406f8d2f97/raster-data-analysis/Band_Composition_For_Landsat.ipynb)
