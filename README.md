@@ -18,5 +18,5 @@ Molly Weeldreyer
 ## Raster Data Analysis
 - [Band Composition for Landsat](https://github.com/mollymw/mollymw-gis-project-portfolio-geo242/blob/3105935460beea513067de2e6de9f6406f8d2f97/raster-data-analysis/Band_Composition_For_Landsat.ipynb)
 
-##Spatial Analysis
+## Spatial Analysis
 - [John Snow's Cholera Discovery in London](https://github.com/mollymw/mollymw-gis-project-portfolio-geo242/blob/af983dcd65db24606186bf7f7c365ed4e948c901/spatial-analysis/John_Snow's_Cholera_Discovery_In_London.ipynb)
