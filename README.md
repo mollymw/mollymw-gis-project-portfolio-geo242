@@ -22,4 +22,4 @@ Molly Weeldreyer
 - [John Snow's Cholera Discovery in London](https://github.com/mollymw/mollymw-gis-project-portfolio-geo242/blob/af983dcd65db24606186bf7f7c365ed4e948c901/spatial-analysis/John_Snow's_Cholera_Discovery_In_London.ipynb)
 
 ## Web-based Mapping
-- [Explore the 1854 Cholera Outbreak in London](https://miamioh.maps.arcgis.com/apps/instant/sidebar/index.html?appid=627ff621c08441a0bd381aca00fe4c24)
+- [Explore the 1854 Cholera Outbreak in London](https://miamioh.maps.arcgis.com/home/item.html?id=627ff621c08441a0bd381aca00fe4c24)
