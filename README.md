@@ -23,4 +23,4 @@ Molly Weeldreyer
 - [2010 and 2020 Population Maps for Ohio](https://github.com/mollymw/mollymw-gis-project-portfolio-geo242/blob/03ed8ad6c890ba19a71c3716f8c7f31e0fbd9079/spatial-analysis/Maps%20of%202010%20and%202020%20Population%20Data%20for%20Ohio.ipynb)
 
 ## Web-based Mapping
-- Explore the 1854 Cholera Outbreak in London: https://miamioh.maps.arcgis.com/home/item.html?id=886772f9aee84bad8c8928c57f826e62#overview
+- [Explore the 1854 Cholera Outbreak in London](https://miamioh.maps.arcgis.com/home/item.html?id=886772f9aee84bad8c8928c57f826e62#overview)
