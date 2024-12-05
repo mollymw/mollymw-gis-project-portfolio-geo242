@@ -21,7 +21,7 @@ Molly Weeldreyer
 ## Spatial Analysis
 - [2010 and 2020 Population Maps for Ohio](https://github.com/mollymw/mollymw-gis-project-portfolio-geo242/blob/03ed8ad6c890ba19a71c3716f8c7f31e0fbd9079/spatial-analysis/Maps%20of%202010%20and%202020%20Population%20Data%20for%20Ohio.ipynb)
 
-## ArcGIS Online
+## Layering and Heat Maps
 - [John Snow's Cholera Discovery in London](https://github.com/mollymw/mollymw-gis-project-portfolio-geo242/blob/af983dcd65db24606186bf7f7c365ed4e948c901/spatial-analysis/John_Snow's_Cholera_Discovery_In_London.ipynb)
 
 ## Web-based Mapping
