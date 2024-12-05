@@ -19,7 +19,7 @@ Molly Weeldreyer
 - [Band Composition for Landsat](https://github.com/mollymw/mollymw-gis-project-portfolio-geo242/blob/3105935460beea513067de2e6de9f6406f8d2f97/raster-data-analysis/Band_Composition_For_Landsat.ipynb)
 
 ## Spatial Analysis
-- [2010 and 2020 Population Maps for Ohio](https://github.com/mollymw/mollymw-gis-project-portfolio-geo242/blob/03ed8ad6c890ba19a71c3716f8c7f31e0fbd9079/spatial-analysis/Maps%20of%202010%20and%202020%20Population%20Data%20for%20Ohio.ipynb)
+- [2010 and 2020 Population Maps for Ohio](https://github.com/mollymw/mollymw-gis-project-portfolio-geo242/blob/f84660fea39c5f53ef5df2c06e2f1f0084f3d36e/layering-and-heat-maps/John%20Snow's%20Cholera%20Discovery%20in%20London.ipynb)
 
 ## Layering and Heat Maps
 - [John Snow's Cholera Discovery in London](https://github.com/mollymw/mollymw-gis-project-portfolio-geo242/blob/749d819c80ff1ea2748233c4e51f4352c662c3b3/layering-and-heat-maps/John%20Snow's%20Cholera%20Discovery%20in%20London.ipynb)
